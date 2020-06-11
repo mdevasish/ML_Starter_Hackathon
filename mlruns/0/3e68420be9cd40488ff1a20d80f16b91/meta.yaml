@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mdevasish/Desktop/DS/Janta%20Hack%20ML/mlruns/0/3e68420be9cd40488ff1a20d80f16b91/artifacts
+end_time: 1588237349312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 3e68420be9cd40488ff1a20d80f16b91
+run_uuid: 3e68420be9cd40488ff1a20d80f16b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1588237345981
+status: 3
+tags: []
+user_id: mdevasish
